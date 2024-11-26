@@ -28,6 +28,7 @@ This is an example code used in the project:
 ``
 Python
 sales.drop('link', axis = 1, inplace=True)
+
 ``
 ### Results
 #### The results showed the following;
