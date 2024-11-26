@@ -25,11 +25,10 @@ Microsoft Excel, Power BI, Python
 - Poor/best perfoming sales Tesco store
 ### Data Analysis
 This is an example code used in the project:
-``
+```
 Python
 sales.drop('link', axis = 1, inplace=True)
-
-``
+```
 ### Results
 #### The results showed the following;
 - Tesco store in South London recorded the highest sales while Tesco store in North London recorded the lowest sales
