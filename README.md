@@ -1,7 +1,7 @@
 # Project Overview
 This sales analysis describes the different activities in a sales company including the profit, loss, sale trends, highest product and lowest product sales
 ## Project Title
-Slae analysis of products in tesco
+Sales analysis of products in tesco
 ### Aims and Objectives
 - Highlight significat sale trends
 - Spot patterns affecting sales projection
